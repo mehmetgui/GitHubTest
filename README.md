@@ -1,2 +1,2 @@
 # GitHubTest
-Bu repo'yu test amaçlı oluşturdum.
+Bu repo'yu git dersinde öğrenme amaçlı oluşturdum.
