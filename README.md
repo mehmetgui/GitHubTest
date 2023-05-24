@@ -1,2 +1,2 @@
 # GitHubTest
-Bu repo'yu git dersinde öğrenme amaçlı oluşturdum.
+Bu repo'yu Atil Samancıoğlu'nun git dersi için oluşturdum.
